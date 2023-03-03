@@ -65,12 +65,23 @@ As you can see I have few repos based on my Leetcode solutions which you can fol
 <!-- ![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjunNo1&show_icons=true&theme=radical) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunNo1&layout=compact)](https://github.com/ArjunNo1/github-readme-stats) -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="#"><img alt="Arjun's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ArjunNo1&show_icons=true&theme=radical&line_height=21" ></a>
 
   <a href="#"><img alt="Arjun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunNo1&layout=compact)](https://github.com/ArjunNo1/github-readme-stats" align="center"></a><br><br>
   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-</p> 
+</p>  -->
+ 
+ 
+
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArjunNo1&show_icons=true&theme=radical" alt="Arjun's GitHub stats" height="192px" width="400px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunNo1&layout=compact)](https://github.com/ArjunNo1/github-readme-stats" height="192px" width="400px" />
+
+<b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+</p>
+
 
 <!-- <details>	
   <summary><b> Github Streaks 🔥</b></summary><br>
