@@ -1,8 +1,8 @@
  <h2 align="center">I am  Arjun Balaji!</h2>
- 
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 I 'm a Machine Learning Enthusiast  💻. My technical skills ✍️ include expertise in Python, Flask, Django, HTML, CSS, Bootstrap, Git & GitHub,Tensorflow,Scikit   which I have used to build End to End Machine Learning and Deep Learning Web Apps. With a demonstrated ability to work collaboratively and deliver results, I am well-positioned to take on new challenges and make valuable contributions to any team.
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+
 
 
 Apart from my professional journey, I Explore towards new Tech and Food Blogs. 
