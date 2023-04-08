@@ -61,7 +61,7 @@ As you can see I have few repos based on my Leetcode solutions which you can fol
 ### My Works are open at Kaggle
 
 - 📬 NoteBooks for your Reference : [Let's Go](https://www.kaggle.com/arjunbalaji01)
-### Show some ❤️ by starring some of the repositories!
+
 
 ## 💻 GitHub Stats
 <!-- ![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjunNo1&show_icons=true&theme=radical) -->
