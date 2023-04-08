@@ -82,6 +82,7 @@ As you can see I have few repos based on my Leetcode solutions which you can fol
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunNo1&layout=compact)](https://github.com/ArjunNo1/github-readme-stats" height="192px" width="400px" />
 
 <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 </p>
 
 
